@@ -8,6 +8,9 @@ cd bokom
 
 php bokom.php
 
+Password default akunnya : banned123
+
+
 
 Kalau statusnya error/stop tiba tiba
 Edit mailist pakai text editor,hapus line yang kosong di mailist
